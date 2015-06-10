@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBarApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_opcion1">OPCION 1</string>
+    <string name="title_activity_opcion2">OPCION 2</string>
+    <string name="title_activity_opcion3">OPCION 3</string>
+    <string name="title_activity_opcion4">OPCION 4</string>
+    <string name="msg1">BIENVENIDO A LA OPCION 1:</string>
+    <string name="msg2">BIENVENIDO A LA OPCION 2:</string>
+    <string name="msg3">BIENVENIDO A LA OPCION 3:</string>
+    <string name="msg4">BIENVENIDO A LA OPCION 4:</string>
+    <string name="opc1">OPCION 1</string>
+    <string name="opc2">OPCION 2</string>
+    <string name="opc3">OPCION 3</string>
+    <string name="opc4">OPCION 4</string>
+    <string name="select">SELECCIONA UNA OPCION DEL ACTION BAR</string>
+
+</resources>
